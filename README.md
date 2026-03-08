@@ -14,8 +14,11 @@ Do not change the name or it will not work.
 ## Requirements
 
 ND_Core
+
 ND_Status
+
 pma-voice
+
 rp-radio (optional)
 
 https://loading.io/progress/ for the loading-Bar library.
