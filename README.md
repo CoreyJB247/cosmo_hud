@@ -1,6 +1,7 @@
 # Cosmo HUD
 
-Simple status HUD for FiveM and ESX inspired by NoPixel 3.0.
+Simple status HUD for FiveM and Now made for ND Core.
+It now includes hunger, thirst, alcohol and stamina 
 
 ## Installation
 
@@ -12,13 +13,11 @@ Do not change the name or it will not work.
 
 ## Requirements
 
-esx_status
-esx_basicneeds
-mumble-voip
+ND_Core
+ND_Status
+pma-voice
 rp-radio (optional)
 
-## Thanks to
-https://forum.cfx.re/u/Antoine for the colored map.
 https://loading.io/progress/ for the loading-Bar library.
 
 ## License
