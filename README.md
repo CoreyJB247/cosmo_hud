@@ -21,7 +21,5 @@ pma-voice
 
 rp-radio (optional)
 
-https://loading.io/progress/ for the loading-Bar library.
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
