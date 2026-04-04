@@ -18,8 +18,3 @@ ND_Core
 ND_Status
 
 pma-voice
-
-rp-radio (optional)
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
